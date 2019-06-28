@@ -1,2 +1,2 @@
 # PortScanner
-It's a Python base port scanner
+It's a Python based port scanner
