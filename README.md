@@ -6,10 +6,10 @@ It's a Python3.7 based port scanner
 
 To Run :
 
-``` >pip install -r requirements.txt ```
+``` pip install -r requirements.txt ```
 
 
-``` >python Port_sanner.py ```
+``` python Port_sanner.py ```
 
 
 ![ImageDemo](/demo.png)
